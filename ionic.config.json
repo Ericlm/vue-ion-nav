@@ -1,0 +1,7 @@
+{
+  "name": "vue-ion-nav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
